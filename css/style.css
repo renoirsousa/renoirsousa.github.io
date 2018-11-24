@@ -7,7 +7,7 @@
 .nub {
   position: absolute;
   width: 100px;
-  margin: 2vw 2vw -4vw 15vw;
+  margin: 2vw 2vw -4vw 10vw;
 }
 
 .photo {
@@ -75,7 +75,7 @@ p {
 }
 
 .profile {
-  padding: 0.5vw 16vw;
+  padding: 0.5vw 8vw;
 }
 
 table {
