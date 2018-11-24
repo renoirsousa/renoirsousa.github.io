@@ -26,6 +26,23 @@ footer {
   padding: 0;
 }
 
+aside {
+  display: flex;
+  flex-direction: row;
+}
+
+span {
+  margin: 25px;
+  font-size: 12px;
+  color: rgb(42, 33, 94);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
+
 ul,
 li {
   display: flex;
