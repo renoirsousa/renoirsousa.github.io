@@ -39,8 +39,9 @@ span {
   font-weight: bold;
 }
 
-img {
+.talkimg {
   max-width: 100%;
+  min-width: 300px;
 }
 
 ul,
